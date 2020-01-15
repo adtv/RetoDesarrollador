@@ -3,9 +3,9 @@ Tenemos un reto para ti :shipit:
 
 Si estás interesado en demostrar tus habilidades y formar parte de un equipo de desarrollo en México tienes la oportunidad de participar. Estamos buscando artistas codificadores para backend, frontend y mobile.
 
-## Desarrollador fullstack
+## Reto desarrollador fullstack
 
-1. En México 
+1. Tenemos un amigo que donde estemos siempre tiene antojo por una dona de Krispy Kreme. Estaría genial tener una liga / app donde te muestre la tienda más cercana en un mapa, y estaría padre también ver lo resultados en un listado y si queremos nos diga como llegar a la tienda que elijamos y así poder saciar el antojo de nuestro buen amigo.
 
 ## Notas
 
