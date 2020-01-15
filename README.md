@@ -26,7 +26,7 @@ Es válido por ejemplo en java empezar el proyecto con Boot 2.0, a nosotros nos 
 4. Documentación.
 5. Funcionalidad.
 
-<a href="#" target="_blank" styles="display:inline-block;padding:0.35em 1.2em;border:0.1em solid #FFFFFF; margin:0 0.3em 0.3em 0;border-radius:0.12em;box-sizing: border-box;text-decoration:none;font-family:'Roboto',sans-serif;font-weight:300;color:#FFFFFF;text-align:center;transition: all 0.2s;">
+<a href="https://forms.gle/Hy3d35A8nk4Q2KEC9" target="_blank" styles="display:inline-block;padding:0.35em 1.2em;border:0.1em solid #FFFFFF; margin:0 0.3em 0.3em 0;border-radius:0.12em;box-sizing: border-box;text-decoration:none;font-family:'Roboto',sans-serif;font-weight:300;color:#FFFFFF;text-align:center;transition: all 0.2s;">
 Aplica tu código aquí
 </a>
 
