@@ -9,8 +9,6 @@ Si estás interesado en demostrar tus habilidades y formar parte de un equipo de
 
 ## Notas
 
-Si estás aplicando para frontend solamente implementa esa parte, mismo caso para backend y mobile.
-
 Te puedes basar en frameworks para desarrollar este proyecto. Te platicamos que tecnologías nos interesan que tengas conocimiento:
 - PHP (Laravel)
 - .NET (C#, Entity Framework, dotnet)
